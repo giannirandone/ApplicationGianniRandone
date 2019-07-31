@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_anschreiben"
+            android:icon="@drawable/ic_anschreiben"
+            android:title="Anschreiben"/>
+        <item android:id="@+id/nav_persoenlichedaten"
+            android:icon="@drawable/ic_persoenlichedaten"
+            android:title="Persönliche Daten"/>
+        <item android:id="@+id/nav_karriere"
+            android:icon="@drawable/ic_karriere"
+            android:title="Karriere"/>
+        <item android:id="@+id/nav_interessenundperson"
+            android:icon="@drawable/ic_interessenundperson"
+            android:title="Interessen und Person"/>
+    </group>
+
+    <item android:title="Ich beiße nicht!">
+        <menu>
+            <item android:id="@+id/nav_kontakt"
+                android:icon="@drawable/ic_kontakt"
+                android:title="Kontakt"/>
+        </menu>
+    </item>
+
+</menu>
