@@ -2,26 +2,27 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="176dp"
-    android:background="@color/colorAccent"
-    android:gravity="bottom"
+    android:background="@color/colorPrimary"
+    android:gravity="top"
     android:orientation="vertical"
-    android:padding="16dp"
+    android:padding="11dp"
     android:theme="@style/ThemeOverlay.AppCompat.Dark">
 
     <ImageView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:paddingTop="30dp"
         android:src="@mipmap/profilbild" />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:paddingTop="8dp"
-        android:text="Gianni Randone" />
+        android:paddingTop="5dp"
+        android:text="@string/nav_header_name" />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="E-Mail: info.randonegianni@gmail.com" />
+        android:text="@string/nav_header_email" />
 
 </LinearLayout>
