@@ -6,19 +6,45 @@
 
 Sehr geehrte Damen und Herren,
 
-als Student der Wirtschaftsinformatik (B.Sc.) an der Fachhochschule Dortmund bin ich nicht nur an wirtschaftlichen Sachverhalten, sondern insbesondere auch an der Entwicklung von Software interessiert.
+als Student der Wirtschaftsinformatik im Bachelor of Science an der Fachhochschule Dortmund interessiere ich mich, neben dem wirtschaftlichen Aspekt, insbesondere für die Entwicklung und Implementierung von Softwareanwendungen. Um meine erlernten Kenntnisse in der Fachhochschule sowie meine ersten praktischen Erfahrungen zu vertiefen, möchte ich Ihr Unternehmen als Werkstudent unterstützen.
 
-Insgesamt bin ich eher ein Generalist als ein Spezialist und es interessieren mich vor allem die grundsätzlichen Zusammenhänge zwischen verschiedenen Themengebieten, jedoch finde ich auch viel Freude daran, mich intensiver mit einer bestimmten Sache zu beschäftigen.
-Mit der Symbiose aus meinem Talent, mich in vielerlei Gebieten eindenken und diese verstehen zu können, und meinen Kompetenzen im Bereich der Entwicklung, ist es mir möglich, mit zunehmender Erfahrung den Kundenwünschen immer besser gerecht werden zu können und so entsprechenden Mehrwert zu schaffen.
+Ich bin sehr praktisch veranlagt und konnte in den vergangenen Projekten in der Fachhochschule diese Fähigkeit sowie meine selbstständige und analytische Arbeitsweise erfolgreich einsetzten. So konnte ich bei dem Thyssenkrupp Manager Cup 2019, bei dem ich mit meinem Team den zweiten Platz belegt habe, erfolgreich meine Teamfähigkeit und strukturierte Denkweise einbringen. Des Weiteren bin ich sehr neugierig und motiviert mich in neue Projekte und Probleme reinzudenken.
 
-Mit der Teilnahme an dem Thyssenkrupp Manager Cup 2019, wo wir in der Hauptrunde den zweiten Platz belegten, konnte ich meine Teamfähigkeit, Durchsetzungsfähigkeit und strukturierte Arbeitsweise unter Beweis stellen.
-Eigenmotivation und die Bereitschaft zum Erlernen neuer Technologien wie auch die der rechtlichen Rahmenbedingungen (beispielsweise in Bezug auf den Datenschutz) sind selbstverständlich vorhanden.
-Über Ihre Einladung zu einem persönlichen Vorstellungsgespräch freue ich mich sehr.
+Bereits während meiner allgemeinen Hochschulreife habe ich begonnen, mich für den Bereich der Softwarenentwicklung zu interessieren, sodass ich mir als Autodidakt anhand des Programmierens von Android-Applikationen erste Java-Kenntnisse angeeignet habe. Da ich mich neben dem technischen Aspekt auch für die wirtschaftliche Sicht interessiere, habe ich mich für das Studium der Wirtschaftsinformatik entschieden. So konnte ich in den vergangenen Semestern neben meinen Java-Kenntnissen, besonders mein Wissen in den Bereichen des Algorithmenentwurfes und der Datenbanken vertiefen.
+
+Ich freue mich auf ein Kennenlernen mit Ihnen.
+
 
 Mit freundlichen Grüßen
 
+
+
 Gianni Randone
 "</string>
+
+    <string name="persoenlicheDaten_namen">
+        <b>Vor-/Nachname: </b>Gianni Randone
+    </string>
+
+    <string name="persoenlicheDaten_geburtsdatum">
+        <b>Geburtsdatum: </b>01.07.1998
+    </string>
+
+    <string name="persoenlicheDaten_geburstort">
+        <b>Geburtsort: </b>Hagen, Deutschland
+    </string>
+
+    <string name="persoenlicheDaten_staatsangehoerigkeit">
+        <b>Staatsangehörigkeit: </b>italienisch
+    </string>
+
+    <string name="persoenlicheDaten_allgemeineInformation">
+        <i><b>Zur allgemeinen Information: </b>Da es sich hier nur um ein Referenzprojekt handelt, dessen Quellcode veröffentlicht wird,
+        verzichte ich auf die Angabe empfindlicherer Daten, wie die meiner genauen Wohnanschrift oder Handynummer. Diese Daten
+        befinden sich in der formalen Bewerbung.</i>
+    </string>
+
+
 <string name="nav_header_name"><b>Name: </b>Gianni Randone</string>
 <string name="nav_header_email"><b>E-Mail: </b>info.randonegianni@gmail.com</string>
 
