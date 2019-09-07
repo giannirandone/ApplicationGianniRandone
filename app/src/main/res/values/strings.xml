@@ -4,11 +4,12 @@
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="anschreiben_text">"Bewerbung um eine Werkstudententätigkeit im Bereich Softwareentwicklung
 
+
 Sehr geehrte Damen und Herren,
 
 als Student der Wirtschaftsinformatik im Bachelor of Science an der Fachhochschule Dortmund interessiere ich mich, neben dem wirtschaftlichen Aspekt, insbesondere für die Entwicklung und Implementierung von Softwareanwendungen. Um meine erlernten Kenntnisse in der Fachhochschule sowie meine ersten praktischen Erfahrungen zu vertiefen, möchte ich Ihr Unternehmen als Werkstudent unterstützen.
 
-Ich bin sehr praktisch veranlagt und konnte in den vergangenen Projekten in der Fachhochschule diese Fähigkeit sowie meine selbstständige und analytische Arbeitsweise erfolgreich einsetzten. So konnte ich bei dem Thyssenkrupp Manager Cup 2019, bei dem ich mit meinem Team den zweiten Platz belegt habe, erfolgreich meine Teamfähigkeit und strukturierte Denkweise einbringen. Des Weiteren bin ich sehr neugierig und motiviert mich in neue Projekte und Probleme reinzudenken.
+Ich bin sehr praktisch veranlagt und konnte in den vergangenen Projekten in der Fachhochschule diese Fähigkeit sowie meine selbstständige und analytische Arbeitsweise erfolgreich einsetzten. So konnte ich bei dem Thyssenkrupp Manager Cup 2019, bei dem ich mit meinem Team in der Hauptrunde den zweiten Platz belegt habe, erfolgreich meine Teamfähigkeit und strukturierte Denkweise einbringen. Des Weiteren bin ich sehr neugierig und motiviert mich in neue Projekte und Probleme reinzudenken.
 
 Bereits während meiner allgemeinen Hochschulreife habe ich begonnen, mich für den Bereich der Softwarenentwicklung zu interessieren, sodass ich mir als Autodidakt anhand des Programmierens von Android-Applikationen erste Java-Kenntnisse angeeignet habe. Da ich mich neben dem technischen Aspekt auch für die wirtschaftliche Sicht interessiere, habe ich mich für das Studium der Wirtschaftsinformatik entschieden. So konnte ich in den vergangenen Semestern neben meinen Java-Kenntnissen, besonders mein Wissen in den Bereichen des Algorithmenentwurfes und der Datenbanken vertiefen.
 
@@ -39,13 +40,43 @@ Gianni Randone
     </string>
 
     <string name="persoenlicheDaten_allgemeineInformation">
-        <i><b>Zur allgemeinen Information: </b>Da es sich hier nur um ein Referenzprojekt handelt, dessen Quellcode veröffentlicht wird,
-        verzichte ich auf die Angabe empfindlicherer Daten, wie die meiner genauen Wohnanschrift oder Handynummer. Diese Daten
-        befinden sich in der formalen Bewerbung.</i>
+        <i><b>Allgemeine Information: </b>Da es sich lediglich um ein Referenzprojekt handelt und ich zu sensible Daten nicht veröffentlichen will,
+           sind etwaige Daten wie Handynummer und privater Wohnanschrift den formalen Bewerbungsunterlagen zu entnehmen.</i>
     </string>
-
 
 <string name="nav_header_name"><b>Name: </b>Gianni Randone</string>
 <string name="nav_header_email"><b>E-Mail: </b>info.randonegianni@gmail.com</string>
+
+    <string name="karriere_daten1">
+        <b>09/2018 – heute</b>
+    </string>
+
+    <string name="karriere_beschreibungKarriereabschnitt1">
+        Fachhochschule Dortmund (Angestrebter Abschluss: Wirtschaftsinformatik B.Sc.)
+    </string>
+
+    <string name="karriere_daten2">
+        <b>08/2015 – 07/2018</b>
+    </string>
+
+    <string name="karriere_beschreibungKarriereabschnitt2">
+        Kaufmannsschule II Hagen (Allgemeine Hochschulreife für Wirtschaft und Verwaltung)
+    </string>
+
+    <string name="karriere_daten3">
+        <b>02/2014 – 02/2014</b>
+    </string>
+
+    <string name="karriere_beschreibungKarriereabschnitt3">
+        Schülerbetriebspraktikum (Deutsche Bank AG, Hagen)
+    </string>
+
+    <string name="karriere_daten4">
+        <b>08/2009 – 07/2015</b>
+    </string>
+
+    <string name="karriere_beschreibungKarriereabschnitt4">
+        Realschule Hohenlimburg (Fachoberschulreife mit Qualifikationsvermerk)
+    </string>
 
 </resources>
