@@ -41,7 +41,7 @@ Gianni Randone
 
     <string name="persoenlicheDaten_allgemeineInformation">
         <i><b>Allgemeine Information: </b>Da es sich lediglich um ein Referenzprojekt handelt und ich zu sensible Daten nicht veröffentlichen will,
-           sind etwaige Daten wie Handynummer und privater Wohnanschrift den formalen Bewerbungsunterlagen zu entnehmen.</i>
+           sind etwaige Daten wie Handynummer und privater Wohnanschrift den formellen Bewerbungsunterlagen zu entnehmen.</i>
     </string>
 
 <string name="nav_header_name"><b>Name: </b>Gianni Randone</string>
@@ -79,4 +79,6 @@ Gianni Randone
         Realschule Hohenlimburg (Fachoberschulreife mit Qualifikationsvermerk)
     </string>
 
+    <string name="linkToLinkedIn">
+    <a href="https://www.linkedin.com/in/gianni-randone/">Mein LinkedIn-Profil</a></string>
 </resources>
