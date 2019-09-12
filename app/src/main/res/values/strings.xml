@@ -80,5 +80,18 @@ Gianni Randone
     </string>
 
     <string name="linkToLinkedIn">
-    <a href="https://www.linkedin.com/in/gianni-randone/">Mein LinkedIn-Profil</a></string>
+    <a href="https://www.linkedin.com/in/gianni-randone/"><b>LinkedIn-Profil</b></a></string>
+
+    <string name="linkToXing">
+    <a href="https://www.xing.com/profile/Gianni_Randone/cv"><b>Xing-Profil</b></a></string>
+
+    <string name="linkToGitHub">
+    <a href="https://github.com/giannirandone?tab=repositories"><b>GitHub-Profil</b></a></string>
+
+    <string name="kontaktInformation">
+        Sie können mich gerne über die Berufsnetzwerke LinkedIn oder Xing kontaktieren.
+        Ebenso werde ich die GitHub-Repository zu dieser Bewerbungsapp veröffentlichen, den Link
+        zu meinem Profil finden Sie ebenso unten aufgeführt.
+    </string>
+
 </resources>
