@@ -38,7 +38,6 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
             getSupportFragmentManager().beginTransaction().replace(R.id.fragment_container, new AnschreibenFragment()).commit();
             navigationView.setCheckedItem(R.id.nav_anschreiben);
         }
-
     }
 
     @Override

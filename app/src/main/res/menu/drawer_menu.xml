@@ -14,14 +14,14 @@
         <item android:id="@+id/nav_interessenundperson"
             android:icon="@drawable/ic_interessenundperson"
             android:title="Interessen und Person"/>
+        <item android:id="@+id/nav_kontakt"
+            android:icon="@drawable/ic_kontakt"
+            android:title="Kontakt"/>
     </group>
 
-    <item android:title="Ich beiße nicht!">
-        <menu>
-            <item android:id="@+id/nav_kontakt"
-                android:icon="@drawable/ic_kontakt"
-                android:title="Kontakt"/>
-        </menu>
-    </item>
+
+
+
+
 
 </menu>

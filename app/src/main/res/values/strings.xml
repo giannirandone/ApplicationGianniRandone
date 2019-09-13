@@ -2,9 +2,12 @@
     <string name="app_name">Application Gianni Randone</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
-    <string name="anschreiben_text">"Bewerbung um eine Werkstudententätigkeit im Bereich Softwareentwicklung
+    <string name="anschreiben_text">"<b>Bewerbung um eine Werkstudententätigkeit im Bereich Softwareentwicklung"</b>
+"
 
+"
 
+"
 Sehr geehrte Damen und Herren,
 
 als Student der Wirtschaftsinformatik im Bachelor of Science an der Fachhochschule Dortmund interessiere ich mich, neben dem wirtschaftlichen Aspekt, insbesondere für die Entwicklung und Implementierung von Softwareanwendungen. Um meine erlernten Kenntnisse in der Fachhochschule sowie meine ersten praktischen Erfahrungen zu vertiefen, möchte ich Ihr Unternehmen als Werkstudent unterstützen.
@@ -21,6 +24,9 @@ Mit freundlichen Grüßen
 
 
 Gianni Randone
+"
+
+"
 "</string>
 
     <string name="persoenlicheDaten_namen">
@@ -92,6 +98,55 @@ Gianni Randone
         Sie können mich gerne über die Berufsnetzwerke LinkedIn oder Xing kontaktieren.
         Ebenso werde ich die GitHub-Repository zu dieser Bewerbungsapp veröffentlichen, den Link
         zu meinem Profil finden Sie ebenso unten aufgeführt.
+    </string>
+
+    <string name="text_interessenUndPerson">
+
+        <i><b>Zur Information:</b> Dieser Text ist sehr frei formuliert und soll Ihnen einen möglichst authentischen Blick auf meine Person geben. So bitte ich Sie die zum Teil umgangssprachliche Schreibweise dieses Textes zu entschuldigen. </i>
+"
+
+"
+        Ich bin Gianni Randone, 21 Jahre alt, und sowohl in Hagen geboren wie auch dort (ganz konkret in Hohenlimburg) bis zur Jugend aufgewachsen.
+"
+
+"
+        Schon sehr früh habe ich mich für Technologien begeistern können, so habe ich
+        beispielsweise sehr früh schon (um die Jahrtausendwende herum, also wo ich wirklich noch sehr jung war) unten im Keller am
+        damals wenige Jahre alten Pentium-Computer meines Vaters gesessen, wo ich Spiele gespielt und teilweise mich mit Lernsoftware beschäftigt
+        habe. Ebenfalls habe ich früher sehr gerne Computer auseinander und wieder zusammengebaut und geschaut, ob diese
+        dann noch funktionieren.
+"
+
+"
+        Verwunderlicherweise kam ich jedoch erst relativ spät als Autodidakt dazu, mir neben der Schule
+        das Programmieren beizubringen. Die Idee mir das anzueignen hatte ich schon früher gehabt, nur kam mir das Programmieren durch
+        das, was ich zum Teil aus der Schule gesehen habe (oder viel eher sehen musste), doch sehr kryptisch und abstrakt und keineswegs
+        kreativ vor, sodass ich nie so wirklich von alleine auf das Thema gestoßen bin. Erst nachdem mein Cousin für seine Projekt-
+        und Bachelorarbeit eine Android-App entwickelte, habe ich gesehen, dass das Programmieren doch etwas sehr Tolles sein kann
+        und etwas innehat, was ich schon fast mit dem Wort Freiheit beschreiben könnte, zumindest dahingehend, dass man im Grunde alles,
+        was man programmieren möchte, auch tatsächlich programmieren kann.
+"
+
+"
+        Ich selber war schon immer ein sehr neugieriger und
+        begeisterungsfähiger Mensch, so habe ich mich privat querbeet mit sehr vielen Dingen beschäftigt, zugegebenermaßen aber eher
+        selten so intensiv, dass ich mich dort als wirklich geübt oder talentiert bezeichnen kann - aber das stand für mich nie
+        wirklich im Vordergrund. Jedoch wollte ich endlich mal etwas lernen, wo ich meine ganzen Ideen die ich so habe nicht nur in
+        meinem Köpfchen verharren lasse, sondern auch mal in die Tat umsetzen kann – und da kam mir das Themenfeld des Programmierens
+        doch sehr entgegen, da es im Grunde die wesentlichsten Eigenschaften und Bedürfnisse meiner Person abdecken konnte: Kreativität,
+        rationales Denken und die Möglichkeit, seine Ideen auch frei umsetzen zu können. So habe ich beschlossen, in genau diesem Bereich
+        beruflich Fuß zu fassen und mich dort intensiver mit der Thematik zu befassen.
+"
+
+"
+        Für das Themenfeld der Wirtschaft ganz konkret
+        begann ich mich um den Sommer 2011 herum tiefergehend zu interessieren, als es einen kleinen Crash an den Börsen gab und dieser mein Interesse
+        auf die Zusammenhänge der Wirtschaft zu den Finanzmärkten und der Politik geweckt hat. So kam es in dem Zuge auch zum Praktikum bei
+        einer Bank und dem Wirtschaftsabitur. Letztlich habe ich mich sehr bewusst für das Studium der Wirtschaftsinformatik entschieden.
+
+"
+
+"
     </string>
 
 </resources>
