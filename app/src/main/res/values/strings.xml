@@ -2,7 +2,7 @@
     <string name="app_name">Application Gianni Randone</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
-    <string name="anschreiben_text">"<b>Bewerbung um eine Werkstudententätigkeit im Bereich Softwareentwicklung"</b>
+    <string name="anschreiben_text"><b>"Bewerbung um eine Werkstudententätigkeit im Bereich Softwareentwicklung"</b>
 "
 
 "
@@ -12,7 +12,7 @@ Sehr geehrte Damen und Herren,
 
 als Student der Wirtschaftsinformatik im Bachelor of Science an der Fachhochschule Dortmund interessiere ich mich, neben dem wirtschaftlichen Aspekt, insbesondere für die Entwicklung und Implementierung von Softwareanwendungen. Um meine erlernten Kenntnisse in der Fachhochschule sowie meine ersten praktischen Erfahrungen zu vertiefen, möchte ich Ihr Unternehmen als Werkstudent unterstützen.
 
-Ich bin sehr praktisch veranlagt und konnte in den vergangenen Projekten in der Fachhochschule diese Fähigkeit sowie meine selbstständige und analytische Arbeitsweise erfolgreich einsetzten. So konnte ich bei dem Thyssenkrupp Manager Cup 2019, bei dem ich mit meinem Team in der Hauptrunde den zweiten Platz belegt habe, erfolgreich meine Teamfähigkeit und strukturierte Denkweise einbringen. Des Weiteren bin ich sehr neugierig und motiviert mich in neue Projekte und Probleme reinzudenken.
+Ich bin sehr praktisch veranlagt und konnte in den vergangenen Projekten in der Fachhochschule diese Fähigkeit sowie meine selbstständige und analytische Arbeitsweise erfolgreich einsetzten. So konnte ich bei dem Thyssenkrupp Manager Cup 2019, bei dem ich mit meinem Team in der Hauptrunde den zweiten Platz belegt habe, erfolgreich meine Teamfähigkeit und strukturierte Denkweise einbringen. Des Weiteren bin ich sehr neugierig und motiviert, mich in neue Projekte und Probleme reinzudenken.
 
 Bereits während meiner allgemeinen Hochschulreife habe ich begonnen, mich für den Bereich der Softwarenentwicklung zu interessieren, sodass ich mir als Autodidakt anhand des Programmierens von Android-Applikationen erste Java-Kenntnisse angeeignet habe. Da ich mich neben dem technischen Aspekt auch für die wirtschaftliche Sicht interessiere, habe ich mich für das Studium der Wirtschaftsinformatik entschieden. So konnte ich in den vergangenen Semestern neben meinen Java-Kenntnissen, besonders mein Wissen in den Bereichen des Algorithmenentwurfes und der Datenbanken vertiefen.
 
@@ -46,8 +46,8 @@ Gianni Randone
     </string>
 
     <string name="persoenlicheDaten_allgemeineInformation">
-        <i><b>Allgemeine Information: </b>Da es sich lediglich um ein Referenzprojekt handelt und ich zu sensible Daten nicht veröffentlichen will,
-           sind etwaige Daten wie Handynummer und privater Wohnanschrift den formellen Bewerbungsunterlagen zu entnehmen.</i>
+        <i><b>Allgemeine Information: </b>Da es sich lediglich um ein Referenzprojekt handelt und ich zu sensible Daten nicht veröffentlichen möchte,
+           sind etwaige Daten wie Handynummer und private Wohnanschrift den formellen Bewerbungsunterlagen zu entnehmen.</i>
     </string>
 
 <string name="nav_header_name"><b>Name: </b>Gianni Randone</string>
@@ -102,7 +102,8 @@ Gianni Randone
 
     <string name="text_interessenUndPerson">
 
-        <i><b>Zur Information:</b> Dieser Text ist sehr frei formuliert und soll Ihnen einen möglichst authentischen Blick auf meine Person geben. So bitte ich Sie die zum Teil umgangssprachliche Schreibweise dieses Textes zu entschuldigen. </i>
+        <i><b>Zur Information:</b> Dieser Text ist sehr frei formuliert und soll Ihnen einen möglichst authentischen Blick auf meine Person geben.</i>
+
 "
 
 "
@@ -128,11 +129,9 @@ Gianni Randone
 "
 
 "
-        Ich selber war schon immer ein sehr neugieriger und
-        begeisterungsfähiger Mensch, so habe ich mich privat querbeet mit sehr vielen Dingen beschäftigt, zugegebenermaßen aber eher
-        selten so intensiv, dass ich mich dort als wirklich geübt oder talentiert bezeichnen kann - aber das stand für mich nie
-        wirklich im Vordergrund. Jedoch wollte ich endlich mal etwas lernen, wo ich meine ganzen Ideen die ich so habe nicht nur in
-        meinem Köpfchen verharren lasse, sondern auch mal in die Tat umsetzen kann – und da kam mir das Themenfeld des Programmierens
+        Ich selber war schon immer ein sehr neugieriger und begeisterungsfähiger Mensch, so habe ich mich privat querbeet mit sehr vielen
+        Dingen beschäftigt. Jedoch wollte ich auch etwas lernen das mehr praktischer Natur ist und auch
+        entsprechend eine praktischerer Anwendung hat – da kam mir das Themenfeld des Programmierens
         doch sehr entgegen, da es im Grunde die wesentlichsten Eigenschaften und Bedürfnisse meiner Person abdecken konnte: Kreativität,
         rationales Denken und die Möglichkeit, seine Ideen auch frei umsetzen zu können. So habe ich beschlossen, in genau diesem Bereich
         beruflich Fuß zu fassen und mich dort intensiver mit der Thematik zu befassen.
@@ -143,10 +142,10 @@ Gianni Randone
         begann ich mich um den Sommer 2011 herum tiefergehend zu interessieren, als es einen kleinen Crash an den Börsen gab und dieser mein Interesse
         auf die Zusammenhänge der Wirtschaft zu den Finanzmärkten und der Politik geweckt hat. So kam es in dem Zuge auch zum Praktikum bei
         einer Bank und dem Wirtschaftsabitur. Letztlich habe ich mich sehr bewusst für das Studium der Wirtschaftsinformatik entschieden.
-
 "
 
 "
+
     </string>
 
 </resources>
